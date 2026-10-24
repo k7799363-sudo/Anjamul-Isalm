@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Left Earbud Head & Stem -->
+    <path
+        android:fillColor="#FFD4AF37"
+        android:pathData="M7,5 C5.34,5 4,6.34 4,8 C4,9.66 5.34,11 7,11 C7.55,11 8,11.45 8,12 L8,18 C8,18.55 7.55,19 7,19 C6.45,19 6,18.55 6,18 L6,17 C6,16.45 5.55,16 5,16 C4.45,16 4,16.45 4,17 L4,18 C4,19.66 5.34,21 7,21 C8.66,21 10,19.66 10,18 L10,12 C10,10.34 8.66,9 7,9 C6.45,9 6,8.55 6,8 C6,7.45 6.45,7 7,7 C7.55,7 8,7.45 8,8 L9.5,8 C9.5,6.34 8.66,5 7,5 Z" />
+    <!-- Right Earbud Head & Stem -->
+    <path
+        android:fillColor="#FFD4AF37"
+        android:pathData="M17,5 C15.34,5 14,6.34 14,8 C14,9.66 15.34,11 17,11 C17.55,11 18,11.45 18,12 L18,18 C18,18.55 17.55,19 17,19 C16.45,19 16,18.55 16,18 L16,17 C16,16.45 15.55,16 15,16 C14.45,16 14,16.45 14,17 L14,18 C14,19.66 15.34,21 17,21 C18.66,21 20,19.66 20,18 L20,12 C20,10.34 18.66,9 17,9 C16.45,9 16,8.55 16,8 C16,7.45 16.45,7 17,7 C17.55,7 18,7.45 18,8 L19.5,8 C19.5,6.34 18.66,5 17,5 Z" />
+    <!-- Center Wireless Signal Dot -->
+    <path
+        android:fillColor="#FF4CAF50"
+        android:pathData="M12,4 A1.5,1.5 0 1,0 12,7 A1.5,1.5 0 1,0 12,4 Z" />
+</vector>

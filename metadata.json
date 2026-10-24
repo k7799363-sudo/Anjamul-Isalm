@@ -1,0 +1,6 @@
+{
+  "name": "NurAnjam",
+  "description": "Spiritual Quranic audio player with dual-engine ambient mixing, glassmorphism UI, and serene Islamic aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
